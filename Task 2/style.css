@@ -1,0 +1,43 @@
+body{
+    background-color: rgba(90, 87, 84, 0.2);
+    margin:0 20%;
+    font-family: monospace;
+}
+
+#title{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(77, 74, 74);
+    font-size:3em;
+    margin-bottom: -3px;
+}
+#main > p {
+    text-align: center;
+    text-shadow: 1px 3px 10px rgb(65, 64, 63);
+    font-weight: bold;
+  }
+
+img{
+    align-items: center;
+    display: block;
+    width: 80%;
+    margin: 0 10%;
+}
+
+#img-caption{
+    text-align: center;
+    font-size: 11px;
+}
+
+div#tribute-info{
+    background-color:rgba(0,0,0,0.2);
+    box-shadow: 20px 20px 15px grey;
+    padding:5px 10px;
+    margin-top:20px;
+}
+h1.title{
+    color:white;
+    font-family: sans-serif;
+    text-align:center;
+    text-shadow: 5px 5px 10px black;
+}
